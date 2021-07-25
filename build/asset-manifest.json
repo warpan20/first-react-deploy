@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/first-react-deploy/static/css/main.7a815947.chunk.css",
-    "main.js": "/first-react-deploy/static/js/main.fde37c5b.chunk.js",
-    "main.js.map": "/first-react-deploy/static/js/main.fde37c5b.chunk.js.map",
+    "main.js": "/first-react-deploy/static/js/main.5e1d99da.chunk.js",
+    "main.js.map": "/first-react-deploy/static/js/main.5e1d99da.chunk.js.map",
     "runtime-main.js": "/first-react-deploy/static/js/runtime-main.d9bf0e27.js",
     "runtime-main.js.map": "/first-react-deploy/static/js/runtime-main.d9bf0e27.js.map",
     "static/css/2.75c4ecca.chunk.css": "/first-react-deploy/static/css/2.75c4ecca.chunk.css",
-    "static/js/2.457f425d.chunk.js": "/first-react-deploy/static/js/2.457f425d.chunk.js",
-    "static/js/2.457f425d.chunk.js.map": "/first-react-deploy/static/js/2.457f425d.chunk.js.map",
+    "static/js/2.670fdb07.chunk.js": "/first-react-deploy/static/js/2.670fdb07.chunk.js",
+    "static/js/2.670fdb07.chunk.js.map": "/first-react-deploy/static/js/2.670fdb07.chunk.js.map",
     "index.html": "/first-react-deploy/index.html",
-    "precache-manifest.4c9cb670022ca2aa1c6cf304014d0ecb.js": "/first-react-deploy/precache-manifest.4c9cb670022ca2aa1c6cf304014d0ecb.js",
+    "precache-manifest.1890495d16e90fb62ce45cf40d9490ac.js": "/first-react-deploy/precache-manifest.1890495d16e90fb62ce45cf40d9490ac.js",
     "service-worker.js": "/first-react-deploy/service-worker.js",
     "static/css/2.75c4ecca.chunk.css.map": "/first-react-deploy/static/css/2.75c4ecca.chunk.css.map",
     "static/css/main.7a815947.chunk.css.map": "/first-react-deploy/static/css/main.7a815947.chunk.css.map",
-    "static/js/2.457f425d.chunk.js.LICENSE.txt": "/first-react-deploy/static/js/2.457f425d.chunk.js.LICENSE.txt",
+    "static/js/2.670fdb07.chunk.js.LICENSE.txt": "/first-react-deploy/static/js/2.670fdb07.chunk.js.LICENSE.txt",
     "static/media/android.jpeg": "/first-react-deploy/static/media/android.19a2e0ea.jpeg",
     "static/media/app.jpeg": "/first-react-deploy/static/media/app.70cea92a.jpeg",
     "static/media/digital.jpeg": "/first-react-deploy/static/media/digital.ac8f6f9a.jpeg",
@@ -26,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.d9bf0e27.js",
     "static/css/2.75c4ecca.chunk.css",
-    "static/js/2.457f425d.chunk.js",
+    "static/js/2.670fdb07.chunk.js",
     "static/css/main.7a815947.chunk.css",
-    "static/js/main.fde37c5b.chunk.js"
+    "static/js/main.5e1d99da.chunk.js"
   ]
 }

@@ -14,11 +14,11 @@ const App = () => {
     <>
       <Navbar />
       <Switch>
-        <Route exact path="/" component={Home} />
-        <Route exact path="/about" component={About} />
-        <Route exact path="/service" component={Service} />
-        <Route exact path="/contact" component={Contact} />
-        <Redirect to="/" />
+        <Route exact path="/first-react-deploy/" component={Home} />
+        <Route exact path="/first-react-deploy/about" component={About} />
+        <Route exact path="/first-react-deploy/service" component={Service} />
+        <Route exact path="/first-react-deploy/contact" component={Contact} />
+        <Redirect to="/first-react-deploy" />
       </Switch>
       <Footer />
 
