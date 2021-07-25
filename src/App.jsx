@@ -12,15 +12,7 @@ import { Switch, Route, Redirect } from "react-router-dom";
 const App = () => {
   return (
     <>
-    <h1>My name is arpan</h1>
-      
-      
-    </>
-  );
-};
-
-/*
-<Navbar />
+      <Navbar />
       <Switch>
         <Route exact path="/" component={Home} />
         <Route exact path="/about" component={About} />
@@ -29,5 +21,11 @@ const App = () => {
         <Redirect to="/" />
       </Switch>
       <Footer />
-      */
+
+
+    </>
+  );
+};
+
+
 export default App;
