@@ -18,7 +18,7 @@ const App = () => {
         <Route exact path="/first-react-deploy/about" component={About} />
         <Route exact path="/first-react-deploy/service" component={Service} />
         <Route exact path="/first-react-deploy/contact" component={Contact} />
-        <Redirect to="/first-react-deploy" />
+        <Redirect to="/first-react-deploy/" />
       </Switch>
       <Footer />
 
