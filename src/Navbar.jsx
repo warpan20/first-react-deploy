@@ -34,7 +34,7 @@ const Navbar = () => {
                         exact
                         className="nav-link active"
                         aria-current="page"
-                        to="/first-react-deploy/"
+                        to="/"
                       >
                         Home
                       </NavLink>
@@ -43,7 +43,7 @@ const Navbar = () => {
                       <NavLink
                         activeClassName="menu_active"
                         className="nav-link"
-                        to="/first-react-deploy/service"
+                        to="/service"
                       >
                         Services
                       </NavLink>
@@ -53,7 +53,7 @@ const Navbar = () => {
                       <NavLink
                         activeClassName="menu_active"
                         className="nav-link"
-                        to="/first-react-deploy/about"
+                        to="/about"
                       >
                         About
                       </NavLink>
@@ -63,7 +63,7 @@ const Navbar = () => {
                       <NavLink
                         activeClassName="menu_active"
                         className="nav-link"
-                        to="/first-react-deploy/contact"
+                        to="/contact"
                       >
                         Contact
                       </NavLink>
